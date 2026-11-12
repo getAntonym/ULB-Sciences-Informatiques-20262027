@@ -1,6 +1,6 @@
 # Organisation de l’ordinateur
 
-![Un modèle simple d'organisation d'un ordinateur.](../IMAGES/orga.png)
+![Un modèle simple d'organisation d'un ordinateur.](../IMAGES/ordinateur.png)
 
 *Figure 4.1 — Modèle simple de l’organisation d’un ordinateur.*
 
