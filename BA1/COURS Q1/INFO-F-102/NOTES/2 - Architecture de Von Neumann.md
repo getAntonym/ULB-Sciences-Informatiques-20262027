@@ -49,7 +49,7 @@ Un modèle est une représentation simplifiée d’un système complexe, qu’on
 ### Schéma de l’architecture de Von Neumann
 ![vonneumann](../IMAGES/vonneumann.png)
 
-*Figure 1 — L’architecture de Von Neumann.*
+*Figure 2.1 — Architecture de Von Neumann.*
 
 ## Composants du modèle
 

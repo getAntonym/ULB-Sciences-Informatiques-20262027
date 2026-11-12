@@ -2,7 +2,7 @@
 
 ![Un modèle simple d'organisation d'un ordinateur.](../IMAGES/orga.png)
 
-*Figure 7 — Un modèle simple d'organisation d'un ordinateur.*
+*Figure 4.1 — Modèle simple de l’organisation d’un ordinateur.*
 
 ## Plan du chapitre
 
